@@ -1,15 +1,12 @@
 ---
 title: {{ cookiecutter.project_name }}
-date: "{{ cookiecutter.date }}"
-author: {{ cookiecutter.author }}
-version: {{ cookiecutter.version }}
 ---
+<!-- ADD DATE; AUTHOR, VERSION ETC. -->
 
 
 Project description
 -------
-
-{{ cookiecutter.short_description }}
+<!-- ADD HERE -->
 
 Folder structure
 -------
